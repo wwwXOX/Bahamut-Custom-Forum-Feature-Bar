@@ -30,7 +30,7 @@ cd bahamut-custom-forum-feature-bar
 #### Usage
 Once the extension is installed and loaded in Chrome:
 
-1. Navigate to the Bahamut forum pages (e.g., https://forum.gamer.com.tw/B.php).
+1. Navigate to the Bahamut forum pages.
 2. You will see two new icons in the forum's menu:
     - 🔍 for searching by title
     - 👤 for searching by author
